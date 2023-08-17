@@ -27,7 +27,6 @@ canvas.addEventListener("mousedown", (e) => {
     startX = x0;
     startY = y0;
   }
-  console.log("draw start");  
 
 });
 
