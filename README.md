@@ -11,4 +11,4 @@ Dynamic color selection with an intuitive color picker.
 Undo and redo functionality for refining and iterating designs.
 Responsive layout for a seamless experience across devices.
 
-![Demo 1 - Freehand Drawing Mode](demo2.jpg)
+![Demo 1 - Freehand Drawing Mode](https://drive.google.com/file/d/1RU0QNE1KrUZfW0S66OamMzlsdbp4qn8e/view)
