@@ -12,4 +12,4 @@ Undo and redo functionality for refining and iterating designs.
 Responsive layout for a seamless experience across devices.
 
 
-![Demo 1 - Freehand Drawing Mode](demo 1.png)
+![Demo 1 - Freehand Drawing Mode](demo2.png)
