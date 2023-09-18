@@ -11,4 +11,5 @@ Dynamic color selection with an intuitive color picker.
 Undo and redo functionality for refining and iterating designs.
 Responsive layout for a seamless experience across devices.
 
-![Demo 1 - Freehand Drawing Mode](https://drive.google.com/file/d/1RU0QNE1KrUZfW0S66OamMzlsdbp4qn8e/view)
+![demo 1](https://github.com/pallavee-2705/Interactive-Sketchpad-WebApp/assets/87165168/880ea9c6-2b55-414b-87f2-839c53b06001)
+
